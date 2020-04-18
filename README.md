@@ -50,5 +50,5 @@ Task 2: Perform regression to gather data for all states.
 
 Task 3: Compare the gas prices with the visitor count of the national parks for each state. 
 
-<img src="https://github.com/Abdullah101298/National_Parks_Analysis/blob/master/Images/SCT:TX:visitor_gas_2019.png?raw=true" width="500" height="300">
+<img src="https://github.com/Abdullah101298/National_Parks_Analysis/blob/master/Images/SCT:TX:visitor_gas_2019.png?raw=true" width="600" height="300">
 
