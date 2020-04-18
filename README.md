@@ -37,7 +37,6 @@ Task 4: Compare the temperature with the previously gathered visitor count.
 
 
 <img src="https://github.com/Abdullah101298/National_Parks_Analysis/blob/master/Images/TerrainMapWeather.png?raw=true" width="800" height="300">
-
 <img src="https://github.com/Abdullah101298/National_Parks_Analysis/blob/master/Images/TemperaturevsVisitorCountLineplot.png?raw=true" width="400" height="250">
 
 
