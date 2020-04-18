@@ -6,7 +6,7 @@
 
 https://github.com/Eng-Hisham991/National_Park_Analysis
 
-<img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1.jpg?w=1600&h=900&crop=1" width="1000" height="500">
+<img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1.jpg?w=1600&h=900&crop=1" width="1000" height="350">
 
 ## Background 
 
