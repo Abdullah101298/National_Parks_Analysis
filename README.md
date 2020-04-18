@@ -1,6 +1,8 @@
 # National_Parks_Analysis
 
-#### Link to Original Github for the Project 
+### For full project details, follow the link below;
+
+##### Link to Original Github for the Project 
 
 https://github.com/Eng-Hisham991/National_Park_Analysis
 
