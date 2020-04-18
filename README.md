@@ -25,6 +25,8 @@ Task 2: Gather visitor count data from Irmas API
 
 Task 3: Compare the visitor count for national parks in a state with the population of the state. 
 
+<img src="https://github.com/Abdullah101298/National_Parks_Analysis/blob/master/Images/visitors_v_population_map.png?raw=true" width="800" height="300">
+
 ## Part 2 - Analyzing Temperature vs. Visitor Count for each National Park 
 
 Task 1: Gather weather data from Dark Sky API. 
