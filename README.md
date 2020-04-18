@@ -35,6 +35,10 @@ Task 3: Use the geographical coordinates for the Dark Sky API to gather the temp
 
 Task 4: Compare the temperature with the previously gathered visitor count. 
 
+
+<img src="https://github.com/Abdullah101298/National_Parks_Analysis/blob/master/Images/TerrainMapWeather.png?raw=true" width="800" height="300">
+
+
 ## Part 3 - Analyzing Gas Prices of a State vs. Visitor Count for each National Park
 
 Task 1: Gather gas prices for certain states using EIA API. 
