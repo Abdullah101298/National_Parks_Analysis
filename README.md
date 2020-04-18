@@ -4,6 +4,8 @@
 
 https://github.com/Eng-Hisham991/National_Park_Analysis
 
+<img src="https://news.harvard.edu/wp-content/uploads/2019/09/leo-serrat_unsplash-1.jpg?w=1600&h=900&crop=1" width="1000" height="500">
+
 ## Background 
 
 Performing an analysis on whether weather, gas prices, and the population of a state affect the number of visitors to a national park. 
